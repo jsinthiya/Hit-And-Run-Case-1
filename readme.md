@@ -176,8 +176,8 @@ This project is licensed under the [MIT License](LICENSE).
 | Name              | GitHub                                           | LinkedIn                                              | Email                                                           |
 | ----------------- | ------------------------------------------------ | ----------------------------------------------------- | --------------------------------------------------------------- |
 | **Md. Tashin Parvez** | [@tashinparvez](https://github.com/tashinparvez) | [Tashin Parvez](https://linkedin.com/in/tashinparvez) | [tashinparvez.cse@uiu.ac.bd](mailto:tashinparvez2002@gmail.com) |
-| **Rifat Ibne Yousuf** | [@author2](https://github.com/author2)           | [Author 2](https://linkedin.com/in/author2)           | [author2@email.com](mailto:author2@email.com)                   |
+| **Rifat Ibne Yousuf** | [@itsrifathridoy](https://github.com/itsrifathridoy)           | [Rifat Hridoy](https://linkedin.com/in/itsrifathridoy)           | [itsmerifathridoy@gmail.com](mailto:itsmerifathridoy@gmail.com)                   |
 | **Md. Azizul Haque Noman** | [@author2](https://github.com/author2)           | [Author 2](https://linkedin.com/in/author2)           | [author2@email.com](mailto:author2@email.com)                   |
-| **Jiyasmin Akter Sinthiya** | [@author2](https://github.com/author2)           | [Author 2](https://linkedin.com/in/author2)           | [author2@email.com](mailto:author2@email.com)                   |
+| **Jiyasmin Akter Sinthiya** | [@jsinthiya](https://github.com/jsinthiya) | [Jiyasmin Sinthiya](https://linkedin.com/in/jsinthiya)  | [jaksinthi@gmail.com](mailto:jaksinthi@gmail.com)                   |
 | **Md. Musfiqur Rahman** | [@musfiqurR661](https://github.com/musfiqurR661)           | [Md Musfiqur Rahman](https://www.linkedin.com/in/musfiqur661/)           | [MRahman](musfiqurm661@email.com)                   |
 | **Mr. Raiyan Rahman**  | [@faculty](https://github.com/faculty)           | [Faculty](https://linkedin.com/in/faculty)            | [faculty@university.ac.bd](mailto:faculty@university.ac.bd)     |
