@@ -179,5 +179,5 @@ This project is licensed under the [MIT License](LICENSE).
 | **Rifat Ibne Yousuf** | [@author2](https://github.com/author2)           | [Author 2](https://linkedin.com/in/author2)           | [author2@email.com](mailto:author2@email.com)                   |
 | **Md. Azizul Haque Noman** | [@author2](https://github.com/author2)           | [Author 2](https://linkedin.com/in/author2)           | [author2@email.com](mailto:author2@email.com)                   |
 | **Jiyasmin Akter Sinthiya** | [@author2](https://github.com/author2)           | [Author 2](https://linkedin.com/in/author2)           | [author2@email.com](mailto:author2@email.com)                   |
-| **Md. Musfiqur Rahman** | [@author3](https://github.com/author3)           | [Author 3](https://linkedin.com/in/author3)           | [author3@email.com](mailto:author3@email.com)                   |
+| **Md. Musfiqur Rahman** | [@musfiqurR661](https://github.com/musfiqurR661)           | [Md Musfiqur Rahman](https://www.linkedin.com/in/musfiqur661/)           | [MRahman](musfiqurm661@email.com)                   |
 | **Mr. Raiyan Rahman**  | [@faculty](https://github.com/faculty)           | [Faculty](https://linkedin.com/in/faculty)            | [faculty@university.ac.bd](mailto:faculty@university.ac.bd)     |
